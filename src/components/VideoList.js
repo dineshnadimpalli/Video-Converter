@@ -12,6 +12,7 @@ const VIDEO_FORMATS = [
   {value: 'mp4', option: 'MP4 / QuickTime'},
   {value: 'mpeg', option: 'MPEG'},
   {value: 'ogv', option: 'OGV'},
+  {value: 'gif', option: 'GIF'},
 ]
 
 class VideoList extends Component {
