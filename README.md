@@ -1,14 +1,11 @@
 ## Getting started
-<hr>
 <b>Note: Make sure to install ffmpeg and ffprobe in your machine before using this app</b>
 <br><br>
 <img src='./demo.gif'/>
 
 You can download the executables from https://ffmpeg.org/download.html
-<br><br>
 
 ## Project Setup
-<hr>
 <br>
 
 - <code>git clone https://github.com/dineshnadimpalli/Video-Converter.git</code>
