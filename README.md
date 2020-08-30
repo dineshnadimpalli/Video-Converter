@@ -12,9 +12,7 @@ You can download the executables from https://ffmpeg.org/download.html
 <br>
 
 - <code>git clone https://github.com/dineshnadimpalli/Video-Converter.git</code>
-<br>
 - <code>cd Video-Converter</code>
-<br>
 - <code>npm install</code>
 
 Start react dev server:
