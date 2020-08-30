@@ -1,19 +1,26 @@
-### Getting started
+## Getting started
 <hr>
-<br>
 <b>Note: Make sure to install ffmpeg and ffprobe in your machine before using this app</b>
-
+<br><br>
 <img src='./demo.gif'/>
 
 You can download the executables from https://ffmpeg.org/download.html
 <br><br>
 
-`npm install`
+## Project Setup
+<hr>
+<br>
 
-Start dev server:
+- <code>git clone https://github.com/dineshnadimpalli/Video-Converter.git</code>
+<br>
+- <code>cd Video-Converter</code>
+<br>
+- <code>npm install</code>
 
-`npm start`
+Start react dev server:
 
-In a new terminal window:
+- <code>npm start</code>
 
-`npm run electron`
+In a new terminal window run electron app:
+
+- <code>npm run electron</code>
